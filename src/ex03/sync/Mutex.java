@@ -1,4 +1,4 @@
-package ex03;
+package ex03.sync;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
